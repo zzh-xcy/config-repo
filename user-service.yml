@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://18.233.255.172:3306/edusys_01?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: TianShui#2025!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8082
